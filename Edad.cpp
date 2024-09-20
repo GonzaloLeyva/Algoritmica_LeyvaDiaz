@@ -8,12 +8,12 @@ int main()
     scanf("%d",&dia);
     printf("Ingrese su Mes de Nacimiento: ");
     scanf("%d",&mes);
-    printf("Ingrese su Año de Nacimiento: ");
+    printf("Ingrese su AÃ±o de Nacimiento: ");
     scanf("%d",&ano);
-    printf("Ingrese el año actual: ");
+    printf("Ingrese el aÃ±o actual: ");
     scanf("%d",&fecha);
     edad= fecha-ano;
-    printf("Tu edad es de: %d",edad,"años");
+    printf("Tu edad es de: %d",edad,"aÃ±os");
     getch();
     return 0;
 }
