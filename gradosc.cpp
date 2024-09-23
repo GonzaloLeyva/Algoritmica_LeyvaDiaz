@@ -9,6 +9,6 @@ int main()
     cout << "Grados Celsius: ";
     cin >> celsius;
     fahrenheit=(celsius*9)+32;
-    cout << celsius << "°C son: " << fahrenheit << "°F" <<endl;
+    cout << celsius << "Â°C son: " << fahrenheit << "Â°F" <<endl;
     return 0;
 }
